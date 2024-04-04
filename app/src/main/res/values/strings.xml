@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DB Room</string>
+    <string name="count">Count</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="_0">0</string>
+    <string name="print_on_top">Print On Top</string>
+    <string name="show_saved_data">Show saved Data</string>
+    <string name="button">Button</string>
+    <string name="amount">amount</string>
+    <string name="title">title</string>
+</resources>
